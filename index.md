@@ -8,3 +8,7 @@ You can include links, like this [link to fast.ai](https://www.fast.ai). Posts w
 You can include images:
 
 ![Image of fast.ai logo](images/logo.png)
+
+## Tweetcards
+
+> twitter: https://twitter.com/jakevdp/status/1204765621767901185?s=20
