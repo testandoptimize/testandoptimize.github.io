@@ -7,7 +7,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Notes on all things Data and Analytics
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description: This site was created from fast-template from fast.ai's Jeremy Howard. This is a simplified way to generate a blog and host it using Github Pages. 
+Write your posts in Markdown Language and when you commit them to your repo, they will be converted to html.... ❤
 github_username: testandoptimize
 
 # Email and twitter are optional:
